@@ -82,7 +82,7 @@ section:after {
   
  
 <article> 
-<p>Welcome to the <em>UCL PoliSci DRS</em>, the resear seminar of the [UCL Political Science](https://www.ucl.ac.uk/political-science/). The DRS is the flagship seminar series of the department, where external speakers present their research to the faculty and the research students. The sessions cover all the subfields of the discipline and different methodological approaches, creating a forum that brings together researchers with diverse interests.</p>
+<p>Welcome to the <b>UCL PoliSci DRS</b>, the resear seminar of the [UCL Political Science](https://www.ucl.ac.uk/political-science/). The DRS is the flagship seminar series of the department, where external speakers present their research to the faculty and the research students. The sessions cover all the subfields of the discipline and different methodological approaches, creating a forum that brings together researchers with diverse interests.</p>
 
 <p>Seminars take place throughout the term and attendance is open to everyone who is interested. Navigate the website if you want to check the schedule for this academic year as well as for the past editions. If you would like to be added to our distribution list, simply click [here]() and enter your email address.</p>
 
@@ -93,9 +93,9 @@ Co-organisers:
 <li> [Lotte Hargrave](https://lottehargrave.wordpress.com/) </li>
 <li> [Luca Bellodi](http://lucabellodi.com/) </li>
 </ul>
-<em>Location</em>: Committee Room 2, Department of Political Science, UCL Political Science, 31 Tavistock Square, London, WC1H 9QU ([map](https://www.google.it/maps/place/Political+Science/@51.5250593,-0.1322947,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b2ff6c9c183:0xda525078fd04a52b!8m2!3d51.5250593!4d-0.1301007)).</p>
+<b>Location</b>: Committee Room 2, Department of Political Science, UCL Political Science, 31 Tavistock Square, London, WC1H 9QU ([map](https://www.google.it/maps/place/Political+Science/@51.5250593,-0.1322947,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b2ff6c9c183:0xda525078fd04a52b!8m2!3d51.5250593!4d-0.1301007)).</p>
 
-<p><em>Time</em>: Wednesdays, 1.00 - 2.15 pm.</p>
+<p><b>Time</b>: Wednesdays, 1.00 - 2.15 pm.</p>
 </p>
 </article>
 </section>
