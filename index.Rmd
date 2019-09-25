@@ -1,0 +1,104 @@
+---
+title: ""
+
+---
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+ font-family: Palatino, 'Palatino Linotype', serif;
+ }
+ 
+
+body {
+  font-family: "Century Gothic", AppleGothic, sans-serif;
+  font-size:150%;
+  text-align: justify;
+  line-height: 1.8;
+  text-justify: inter-word;
+}
+
+/* Style the header */
+header {
+  background-color: ;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: #494645;
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 30%;
+  height: 400px;
+  background: ;
+  padding: 15px;
+}
+
+article {
+  float: left;
+  padding: 15px;
+  width: 70%;
+  background-color:;
+}
+
+/* Clear floats after the columns */
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
+
+<body style="background-color:#F8F6F5">
+
+<header>
+<br>
+  <h1>UCL Political Science Departmental Research Seminar</h1>
+</header>
+
+<section>
+  <nav>
+    <img src="logo_drs.png"; style= "">
+    <br>
+    <br>
+    <a class="twitter-timeline" data-width="350" data-height="300" href="https://twitter.com/">Tweets by UCL.DRS</a> <script async src="" charset="utf-8"></script>
+  </nav>
+  
+ 
+<article> 
+<p>Welcome to the <em>UCL PoliSci DRS</em>, the resear seminar of the [UCL Political Science](https://www.ucl.ac.uk/political-science/). The DRS is the flagship seminar series of the department, where external speakers present their research to the faculty and the research students. The sessions cover all the subfields of the discipline and different methodological approaches, creating a forum that brings together researchers with diverse interests.</p>
+
+<p>Seminars take place throughout the term and attendance is open to everyone who is interested. Navigate the website if you want to check the schedule for this academic year as well as for the past editions. If you would like to be added to our distribution list, simply click [here]() and enter your email address.</p>
+
+Seminar Coordinator: [Dr Alexandra Hartman](https://alexandrahartman.net/)
+<br>
+Co-organisers:
+<ul>
+<li> [Lotte Hargrave](https://lottehargrave.wordpress.com/) </li>
+<li> [Luca Bellodi](http://lucabellodi.com/) </li>
+</ul>
+<em>Location</em>: Committee Room 2, Department of Political Science, UCL Political Science, 31 Tavistock Square, London, WC1H 9QU ([map](https://www.google.it/maps/place/Political+Science/@51.5250593,-0.1322947,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b2ff6c9c183:0xda525078fd04a52b!8m2!3d51.5250593!4d-0.1301007)).</p>
+
+<p><em>Time</em>: Wednesdays, 1.00 - 2.15 pm.</p>
+</p>
+</article>
+</section>
+
+</body>
+</html>
