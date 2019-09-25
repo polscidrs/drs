@@ -7,10 +7,7 @@ title: ""
 
 <style>
 
-column {
-  float: left;
-  width: 50%;
-}
+
 
 /* Clear floats after the columns */
 row:after {
@@ -62,10 +59,9 @@ header {
   <h1>2019 - Fall Term</h1>
 </header>
 
-<column>
 <p><b>2 October 2019</b><br>
 Kate Cronin-Furman (UCL)<br>
-Title:<br>
+Title: <i>The Things They Carry: Victims’ Documentation of Forced Disappearance in Colombia and Sri Lanka</i><br>
 <br>
 <b>9 October 2019</b><br>
 Claudio Radaelli (UCL)<br>
@@ -102,7 +98,6 @@ Title:<br>
 Ellen Lust (University of Gothenbug)<br>
 Title:<br>
 </p>
-</column>
 
 </body>
 </html>
