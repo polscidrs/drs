@@ -1,0 +1,80 @@
+---
+title: ""
+
+---
+
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+
+
+
+/* Clear floats after the columns */
+row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other on smaller screens (600px wide or less) */
+@media screen and (max-width: 600px) {
+  column {
+    width: 100%;
+  }
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+
+h1 {
+ font-family: Palatino, 'Palatino Linotype', serif;
+ }
+
+body {
+  font-family: "Century Gothic", AppleGothic, sans-serif;
+  font-size:150%;
+  text-align: justify;
+  line-height: 1.8;
+  text-justify: inter-word;
+}
+
+/* Style the header */
+header {
+  background-color: ;
+  padding: 30px;
+  text-align: left;
+  font-size: 35px;
+  color: #494645;
+}
+
+</style>
+
+<body style="background-color:#F8F6F5">
+
+<header>
+<br>
+  <h1>Other Seminars</h1>
+</header>
+
+Here is a non-exhaustive list of other seminar series of interest.
+
+<ul>
+  <li>African Political Economy - LSE ([link](http://www.lse.ac.uk/government/research/research-groups/african-political-economy))</li>
+  <li>Political Science and Political Economy - LSE ([link](http://www.lse.ac.uk/government/research/research-groups/political-science-and-political-economy))</li>
+  <li>Political Behaviour - LSE ([link](http://www.lse.ac.uk/government/research/research-groups/political-behaviour))</li>
+  <li> Political Economy - KCL ([link](https://www.kcl.ac.uk/political-economy/research/departmental-seminars))</li>
+  <li> Nuffield College - Oxford ([link]())</li>
+  <li> Political Science - Essex ([link]())</li>
+  <li> CReAM - UCL ([link](http://www.cream-migration.org/events-applied-seminar.php?year=2019)</li>
+  
+</ul>
+
+
+</body>
+</html>
+
+

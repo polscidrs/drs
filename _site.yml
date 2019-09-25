@@ -7,8 +7,8 @@ navbar:
       href: index.html
     - text: "Schedule"
       href: Schedule.html
-    - text: "Around UCL"
-      href: beyond_ucl.html
+    - text: "Other Seminars"
+      href: other_seminars.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html

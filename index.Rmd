@@ -82,9 +82,9 @@ section:after {
   
  
 <article> 
-<p>Welcome to the <b>UCL PoliSci DRS</b>, the resear seminar of the [UCL Political Science](https://www.ucl.ac.uk/political-science/). The DRS is the flagship seminar series of the department, where external speakers present their research to the faculty and the research students. The sessions cover all the subfields of the discipline and different methodological approaches, creating a forum that brings together researchers with diverse interests.</p>
+<p>Welcome to the <b>UCL PoliSci DRS</b>, the research seminar of the [UCL Political Science Department](https://www.ucl.ac.uk/political-science/). The DRS is the flagship seminar series of the department, where external speakers present their research to the faculty and research students. The sessions cover all the subfields of the discipline and different methodological approaches, creating a forum that brings together researchers with diverse interests.</p>
 
-<p>Seminars take place throughout the term and attendance is open to everyone who is interested. Navigate the website if you want to check the schedule for this academic year as well as for the past editions. If you would like to be added to our distribution list, simply click [here]() and enter your email address.</p>
+<p>The seminars take place throughout the entire academic year. Navigate the website if you want to check the schedule for this this term and other interesting seminar series going on around UCL. If you would like to attend, please be in touch by clicking <A HREF="mailto:luca.bellodi.17@ucl.ac.uk, lotte.hargrave.16@ucl.ac.uk">here</A>.</p>
 
 Seminar Coordinator: [Dr Alexandra Hartman](https://alexandrahartman.net/)
 <br>
