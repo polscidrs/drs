@@ -312,14 +312,32 @@ $(document).ready(function () {
 <html>
 <p><meta name="viewport" content="width=device-width, initial-scale=1"></p>
 <style>
+
+
+
+/* Clear floats after the columns */
+row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other on smaller screens (600px wide or less) */
+@media screen and (max-width: 600px) {
+  column {
+    width: 100%;
+  }
+}
+
+
 * {
   box-sizing: border-box;
 }
 
+
 h1 {
  font-family: Palatino, 'Palatino Linotype', serif;
  }
- 
 
 body {
   font-family: "Century Gothic", AppleGothic, sans-serif;
@@ -333,80 +351,32 @@ body {
 header {
   background-color: ;
   padding: 30px;
-  text-align: center;
+  text-align: left;
   font-size: 35px;
   color: #494645;
 }
 
-/* Create two columns/boxes that floats next to each other */
-nav {
-  float: left;
-  width: 30%;
-  height: 400px;
-  background: ;
-  padding: 15px;
-}
-
-article {
-  float: left;
-  padding: 15px;
-  width: 70%;
-  background-color:;
-}
-
-/* Clear floats after the columns */
-section:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-
-/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
-@media (max-width: 600px) {
-  nav, article {
-    width: 100%;
-    height: auto;
-  }
-}
 </style>
 <body style="background-color:#F8F6F5">
 <header>
 <br>
 <h1>
-UCL Political Science <br> Departmental Research Seminar
+Contacts
 </h1>
 </header>
-<section>
-<nav> <img src="logo_drs.png"; style= ""> <br> <br> <a class="twitter-timeline" data-width="350" data-height="300" href="https://twitter.com/sppdrs?ref_src=twsrc%5Etfw">Tweets by <span class="citation">@sppdrs</span></a>
-<script async src="" charset="utf-8"></script>
-<p></nav></p>
-<article>
 <p>
-Welcome to the <b>UCL PoliSci DRS</b>, the research seminar of the <a href="https://www.ucl.ac.uk/political-science/">UCL Political Science Department</a>. The DRS is the flagship seminar series of the department, where external speakers present their research to the faculty and research students. The sessions cover all the subfields of the discipline and different methodological approaches, creating a forum that brings together researchers with diverse interests.
-</p>
-<p>
-The seminars take place throughout the entire academic year. Navigate the website if you want to check the schedule for this this term and other interesting seminar series going on around UCL. If you would like to attend, please be in touch by clicking <a href="contacts.html">here</A>.
-</p>
-Seminar Coordinator: <a href="https://alexandrahartman.net/">Dr Alexandra Hartman</a> <br> Co-organisers:
+You can contact us at:
 <ul>
 <li>
-<a href="https://lottehargrave.wordpress.com/">Lotte Hargrave</a>
+alexandra.hartman [at] ucl.ac.uk
 </li>
 <li>
-<a href="http://lucabellodi.com/">Luca Bellodi</a>
+luca.bellodi.17 [at] ucl.ac.uk
+</li>
+<li>
+lotte.hargrave [at] ucl.ac.uk
 </li>
 </ul>
-<b>Location</b>: Committee Room 2, UCL Department of Political Science, 29-31 Tavistock Square, London, WC1H 9QU (<a href="https://www.google.it/maps/place/Political+Science/@51.5250593,-0.1322947,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b2ff6c9c183:0xda525078fd04a52b!8m2!3d51.5250593!4d-0.1301007">map</a>).
-</p>
-<p>
-<b>Time</b>: Wednesdays, 1.00 - 2.15 pm.
-</p>
-</p>
-</article>
-</section>
-</body>
-</html>
 
 
 
