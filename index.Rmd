@@ -82,17 +82,18 @@ section:after {
 
  
 <article> 
-<p>Welcome to the <b>UCL PoliSci DRS</b>, the research seminar of the [UCL Political Science Department](https://www.ucl.ac.uk/political-science/). The DRS is the flagship seminar series of the department, where external speakers present their research to the faculty and research students. The sessions cover all the subfields of the discipline and different methodological approaches, creating a forum that brings together researchers with diverse interests.</p>
+<p>Welcome to the <b>UCL PoliSci DRS</b> website. The DRS is the flagship seminar series of the [UCL Political Science Department](https://www.ucl.ac.uk/political-science/), where external speakers present their research to the faculty and research students. The sessions cover all the subfields of the discipline and different methodological approaches, creating a forum that brings together researchers with diverse interests.</p>
 
-<p>The seminars take place throughout the entire academic year. Navigate the website if you want to check the schedule for this this term and other interesting seminar series going on around UCL. If you would like to attend, please be in touch by clicking <a href="contacts.html">here</A>.</p>
+<p>The seminars take place throughout the entire academic year. Navigate the website if you want to check the schedule for this this term and other interesting seminar series going in and close to London. If you would like to attend, please be in touch by clicking <a href="contacts.html">here</A>.</p>
 
 Seminar Coordinator: [Dr Alexandra Hartman](https://alexandrahartman.net/)
 <br>
 Co-organisers:
 <ul>
-<li> [Lotte Hargrave](https://lottehargrave.wordpress.com/) </li>
-<li> [Luca Bellodi](http://lucabellodi.com/) </li>
+  <li> [Lotte Hargrave](https://lottehargrave.wordpress.com/) </li>
+  <li> [Luca Bellodi](http://lucabellodi.com/) </li>
 </ul>
+
 <b>Location</b>: Committee Room 2, UCL Department of Political Science, 29-31 Tavistock Square, London, WC1H 9QU ([map](https://www.google.it/maps/place/Political+Science/@51.5250593,-0.1322947,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b2ff6c9c183:0xda525078fd04a52b!8m2!3d51.5250593!4d-0.1301007)).</p>
 
 <p><b>Time</b>: Wednesdays, 1.00 - 2.15 pm.</p>
