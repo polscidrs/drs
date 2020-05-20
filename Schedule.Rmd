@@ -190,22 +190,22 @@ Title: <i>Press 1 for Roads: Motivating Programmatic Politics in Pakistan</i><br
 </p>
 </div>
 
-<button type="button" class="collapsible"><h1>Summer Term</h1></button>
+<button type="button" class="collapsible"><h1>Summer Term (on Zoom)</h1></button>
 <div class="content">
 
 <br>
 <p><b>6 May 2020</b><br>
 Christel Koop (KCL)<br>
-Title: <i>TBC</i><br>
+Title: <i>Democracy, policy complexity and the politics of competition policy in the Global South</i><br>
 
 <br>
 <b>13 May 2020</b><br>
 Christina Zuber (Konstanz)<br>
-Title: <i>TBC</i><br>
+Title: <i>The Promise of Status-Improvement: How Nationalists Attract Working-Class Votes</i><br>
 
 <br>
-<b>20 May 2020</b><br>
-TBC<br>
+<b>27 June 2020</b><br>
+Ben Lauderdale (UCL)<br>
 Title: <i>TBC</i><br>
 
 <br>
@@ -215,6 +215,16 @@ Title: <i>TBC</i><br>
 
 <br>
 <b>10 June 2020</b><br>
+TBC<br>
+Title: <i>TBC</i><br>
+
+<br>
+<b>23 June 2020</b><br>
+TBC<br>
+Title: <i>TBC</i><br>
+
+<br>
+<b>30 June 2020</b><br>
 TBC<br>
 Title: <i>TBC</i><br>
 
