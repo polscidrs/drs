@@ -83,7 +83,7 @@ header {
   <h1>2020/2021 Academic Year</h1>
 </header>
 
-<button type="button" class="collapsible"><h1>Fall Term</h1></button>
+<button type="button" class="collapsible"><h1>Fall Term (online)</h1></button>
 <div class="content">
 
 <br>
