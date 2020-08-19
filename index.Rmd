@@ -85,8 +85,12 @@ section:after {
 
 <p>The seminars take place throughout the entire academic year. Navigate the website if you want to check the schedule for this term and other interesting seminar series in and around London. If you would like to attend, please be in touch by clicking <a href="contacts.html">here</A>.</p>
 
-Seminar Coordinator: [Dr Alexandra Hartman](https://alexandrahartman.net/)
-<br>
+Seminar Coordinator:
+<ul>
+  <li>[Dr Alexandra Hartman](https://alexandrahartman.net/)</li>
+  <li>[Dr Gerda Hooijer](https://www.gerdahooijer.com/)</li>
+</ul>
+
 Co-organisers:
 <ul>
   <li> [Lotte Hargrave](https://sites.google.com/view/lotte-hargrave) </li>
