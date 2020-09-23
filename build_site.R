@@ -1,2 +1,2 @@
-setwd("/Users/lucabellodi/Dropbox/SPP_DRS/drs")
+setwd("~/Dropbox/SPP_DRS/drs")
 rmarkdown::render_site()
