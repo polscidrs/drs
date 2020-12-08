@@ -1,3 +1,2 @@
-user <- "lotte"
-if(user == "lotte") setwd("/Users/lotte/Dropbox/SPP DRS/drs")
+setwd("~/Dropbox/SPP_DRS/drs")
 rmarkdown::render_site()

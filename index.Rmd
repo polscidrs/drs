@@ -94,7 +94,7 @@ Seminar Coordinator:
 Co-organisers:
 <ul>
   <li> [Lotte Hargrave](https://sites.google.com/view/lotte-hargrave) </li>
-  <li> [Luca Bellodi](http://lucabellodi.com/) </li>
+  <li> [Markus Kollberg](https://www.ucl.ac.uk/political-science/markus-kollberg) </li>
 </ul>
 
 <b>Location</b>: Committee Room 2, UCL Department of Political Science, 29-31 Tavistock Square, London, WC1H 9QU ([map](https://www.google.it/maps/place/Political+Science/@51.5250593,-0.1322947,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b2ff6c9c183:0xda525078fd04a52b!8m2!3d51.5250593!4d-0.1301007)).</p>

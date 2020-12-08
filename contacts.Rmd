@@ -63,6 +63,6 @@ header {
 <ul>
   <li>alexandra.hartman [at] ucl.ac.uk</li>
   <li>g.hooijer [at] ucl.ac.uk</li>
-  <li>llotte.hargrave.16 [at] ucl.ac.uk</li>
-  <li>luca.bellodi.17 [at] ucl.ac.uk</li>
+  <li>lotte.hargrave.16 [at] ucl.ac.uk</li>
+  <li>markus.kollberg.18 [at] ucl.ac.uk</li>
 </ul>
