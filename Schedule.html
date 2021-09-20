@@ -13,7 +13,6 @@
 
 <title>Schedule.utf8</title>
 
-<script src="site_libs/header-attrs-2.5/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -23,19 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
-<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
-
-<style type="text/css">
-  code{white-space: pre-wrap;}
-  span.smallcaps{font-variant: small-caps;}
-  span.underline{text-decoration: underline;}
-  div.column{display: inline-block; vertical-align: top; width: 50%;}
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-  ul.task-list{list-style: none;}
-    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -396,6 +384,49 @@ header {
 <header>
 <br>
 <h1>
+2021/2022 Academic Year
+</h1>
+</header>
+<button type="button" class="collapsible">
+<h1>
+Fall Term
+</h1>
+</button>
+<div class="content">
+
+<br>
+<p>
+<p><b>06 October 2021</b><br> Ellie Woodhouse (UCL)<br> Title: <i>tba</i><br></p>
+<br>
+<p>
+<p><b>13 October 2021</b><br> Ben Ansell (Oxford)<br> Title: <i>tba</i><br></p>
+<br>
+<p>
+<p><b>20 October 2021</b><br> Daniel Goldstein (Yale)<br> Title: <i>tba</i><br></p>
+<br>
+<p>
+<p><b>27 October 2021</b><br> Devorah S. Manekin (Hebrew University)<br> Title: <i>tba</i><br></p>
+<br>
+<p>
+<p><b>03 November 2021</b><br> Marcos Vera-Hernandez (UCL Economics)<br> Title: <i>tba</i><br></p>
+<br>
+<p>
+<p><b>17 November 2021</b><br> Elliot Ash (Zurich)<br> Title: <i>tba</i><br></p>
+<br>
+<p>
+<p><b>24 November 2021</b><br> Amy Catalinac (NYU)<br> Title: <i>tba</i><br></p>
+<br>
+<p>
+<p><b>01 December 2021</b><br> Elliot Ash (Zurich)<br> Title: <i>tba</i><br></p>
+<br>
+<p>
+<p><b>08 December 2021</b><br> tba<br> Title: <i>tba</i><br></p>
+<br>
+<p>
+<p><b>15 December 2021</b><br> Dan Honig<br> Title: <i>tba</i><br></p>
+<header>
+<br>
+<h1>
 2020/2021 Academic Year
 </h1>
 </header>
@@ -498,7 +529,7 @@ Summer term (online)
 <p><b>19 May 2021</b><br> Anastasia Shesterinina (Sheffield)<br> Title: <i>Civil War Paths: Understanding Civil War from Pre- to Post-War Stages</i><br></p>
 <br>
 <p>
-<p><b>26 May 2021</b><br> Noam Gidron (Hebrew University)<br> Title: <i>Who Dislikes Whom? Affective Polarization between Pairs of Parties in Western Democracies</i><br></p>
+<p><b>26 May 2021</b><br> Noam Gidron (Hebrew University)<br> Title: <i>Who Dislikes Whom? Affective Polarization between Pairs of Parties in Western Democracies </i><br></p>
 <br>
 <p>
 <p><b>2 June 2021</b><br> Carl Dahlström (Gothenburg)<br> Title: <i>TBC</i><br></p>
@@ -596,7 +627,7 @@ for (i = 0; i < coll.length; i++) {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

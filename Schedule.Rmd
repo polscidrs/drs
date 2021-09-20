@@ -77,6 +77,69 @@ header {
 
 <body style="background-color:#F8F6F5">
 
+<header>
+<br>
+  <h1>2021/2022 Academic Year</h1>
+</header>
+
+<button type="button" class="collapsible"><h1>Fall Term</h1></button>
+<div class="content">
+
+<br>
+<p><b>06 October 2021</b><br>
+Ellie Woodhouse (UCL)<br>
+Title: <i>tba</i><br>
+
+<br>
+<p><b>13 October 2021</b><br>
+Ben Ansell (Oxford)<br>
+Title: <i>tba</i><br>
+
+<br>
+<p><b>20 October 2021</b><br>
+Daniel Goldstein (Yale)<br>
+Title: <i>tba</i><br>
+
+
+<br>
+<p><b>27 October 2021</b><br>
+Devorah S. Manekin (Hebrew University)<br>
+Title: <i>tba</i><br>
+
+<br>
+<p><b>03 November 2021</b><br>
+Marcos Vera-Hernandez (UCL Economics)<br>
+Title: <i>tba</i><br>
+
+
+<br>
+<p><b>17 November 2021</b><br>
+Elliot Ash (Zurich)<br>
+Title: <i>tba</i><br>
+
+<br>
+<p><b>24 November 2021</b><br>
+Amy Catalinac (NYU)<br>
+Title: <i>tba</i><br>
+
+
+<br>
+<p><b>01 December 2021</b><br>
+Elliot Ash (Zurich)<br>
+Title: <i>tba</i><br>
+
+
+<br>
+<p><b>08 December 2021</b><br>
+tba<br>
+Title: <i>tba</i><br>
+
+<br>
+<p><b>15 December 2021</b><br>
+Dan Honig<br>
+Title: <i>tba</i><br>
+
+
 
 <header>
 <br>
@@ -221,7 +284,7 @@ Title: <i>Civil War Paths: Understanding Civil War from Pre- to Post-War Stages<
 <br>
 <p><b>26 May 2021</b><br>
 Noam Gidron (Hebrew University)<br>
-Title: <i>Who Dislikes Whom? Affective Polarization between Pairs of Parties in Western Democracies</i><br>
+Title: <i>Who Dislikes Whom? Affective Polarization between Pairs of Parties in Western Democracies </i><br>
 
 <br>
 <p><b>2 June 2021</b><br>
