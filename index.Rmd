@@ -92,11 +92,11 @@ Seminar Coordinator:
 
 Co-organisers:
 <ul>
-  <li> [Lotte Hargrave](https://sites.google.com/view/lotte-hargrave) </li>
-  <li> [Markus Kollberg](https://www.ucl.ac.uk/political-science/markus-kollberg) </li>
+  <li>[Markus Kollberg](https://www.ucl.ac.uk/political-science/markus-kollberg) </li>
+  <li> [Alexander Fitzpatrick](https://www.ucl.ac.uk/political-science/people/mphil-phd-students/alexander-fitzpatrick) </li>
 </ul>
 
-<b>Location</b>: Committee Room 2, UCL Department of Political Science, 29-31 Tavistock Square, London, WC1H 9QU ([map](https://www.google.it/maps/place/Political+Science/@51.5250593,-0.1322947,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b2ff6c9c183:0xda525078fd04a52b!8m2!3d51.5250593!4d-0.1301007)).</p>
+<b>Location</b>: UCL Department of Political Science, 29-31 Tavistock Square, London, WC1H 9QU ([map](https://www.google.it/maps/place/Political+Science/@51.5250593,-0.1322947,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b2ff6c9c183:0xda525078fd04a52b!8m2!3d51.5250593!4d-0.1301007)).</p>
 
 <p><b>Time</b>: Wednesdays, 1.00 - 2.15 pm.</p>
 </p>
